@@ -24,4 +24,3 @@ If you have any question, feel free to contact me! [![GMail Badge](https://img.s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerezD&layout=compact&langs_count=10&theme=dark" height="150" />
 </a>
 [![github-streak](http://github-readme-streak-stats.herokuapp.com?user=SerezD&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
-[![activity-graph](https://activity-graph.herokuapp.com/graph?username=SerezD&theme=merko)](https://github.com/serezd/github-readme-activity-graph)
