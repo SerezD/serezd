@@ -17,10 +17,18 @@ I'm actually working on generative models and image generation, using Transforme
 <br> <br/>
 If you have any question, feel free to contact me! [![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=rounded&logo=gmail&logoColor=white)](mailto:dario.serez@iit.it)
 <br><br/>
+
+<!--  STATS
 <a href="https://github.com/SerezD/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SerezD&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" height="150" />
 </a>
+-->
+
+<!--  used languages -->
 <a href="https://github.com/SerezD/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerezD&layout=compact&langs_count=10&theme=dark" height="150" />
 </a>
+
+<!-- Longest Streak
 [![github-streak](http://github-readme-streak-stats.herokuapp.com?user=SerezD&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
+-->
