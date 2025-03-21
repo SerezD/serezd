@@ -24,11 +24,11 @@
 </a>
 -->
 
-<!-- Trophies (or single stats) 
+<!-- Trophies (or single stats): https://github.com/ryo-ma/github-profile-trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SerezD&theme=darkhub&margin-w=15" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=SerezD&theme=darkhub&margin-w=15&title=Stars,Followers,Experience,Repositories,Issues,PullRequest,Commits" alt="Trophies">
 </a>
---> 
+-->
 
 <!--  used languages -->
 <a href="https://github.com/SerezD/README.md">
