@@ -3,18 +3,20 @@
   <a href="https://github.com/SerezD/SerezD">
     <img src="https://komarev.com/ghpvc/?username=SerezD&style=rounded" alt="page views" />
   </a>
+  <a href="https://github.com/SerezD/SerezD?tab=visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=SerezD" alt="Visitor Counter">
+  </a>
   <a href="https://github.com/SerezD?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/SerezD?style=rounded&color=green&logo=github">
+  </a>
+  <a href="mailto:dario.serez@iit.it">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Mail-blue?style=rounded&logo=maildotru&logoColor=white">
+  </a>
 <p align="center">
   
-Hi there!
-<br> <br/>
-I'm Dario Serez, Ph.D. student at the Italian Institute of Technology (IIT) as part of the Pattern Analysis and Computer Vision (PAVIS) research line.
-<br> <br/>
-In 2021 I obtained my Master Degree in Computer Science and engineering at the University of Verona (Italy). My thesis was focused on the <a href="https://openai.com/blog/dall-e/" target="_blank" rel="noopener noreferrer">DALL·E</a> system by OpenAI, which I studied and replicated from scratch. 
-<br> <br/>
-If you have any question, feel free to contact me! [![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=rounded&logo=gmail&logoColor=white)](mailto:dario.serez@iit.it)
-<br><br/>
+<!-- Email Badge
+[![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=rounded&logo=gmail&logoColor=white)](mailto:dario.serez@iit.it)
+-->
 
 <!--  STATS
 <a href="https://github.com/SerezD/README.md">
@@ -22,10 +24,27 @@ If you have any question, feel free to contact me! [![GMail Badge](https://img.s
 </a>
 -->
 
+<!-- Trophies (or single stats) 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SerezD&theme=darkhub&margin-w=15" alt="Trophies">
+</a>
+--> 
+
 <!--  used languages -->
 <a href="https://github.com/SerezD/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerezD&layout=compact&langs_count=10&theme=dark" height="150" />
 </a>
+
+<!--  skills -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,python,bash,linux,pycharm,anaconda,postgresql" alt="Tech Stack">
+</p>
+
+<!-- Recent Activity Graph
+<a href="https://github.com/SerezD">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SerezD&theme=react-dark" alt="GitHub Activity" />
+</a>
+-->
 
 <!-- Longest Streak
 [![github-streak](http://github-readme-streak-stats.herokuapp.com?user=SerezD&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
